@@ -1,0 +1,2 @@
+module LearnJquery2Helper
+end
